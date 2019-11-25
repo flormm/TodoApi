@@ -1,0 +1,169 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Flor\\Desktop\\web appi\\webapi2019-SQliteAndIdentityAndAuthorize\\TodoApi.UnitTests\\TodoApi.UnitTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Flor\\Desktop\\web appi\\webapi2019-SQliteAndIdentityAndAuthorize\\TodoApi.UnitTests\\TodoApi.UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Flor\\Desktop\\web appi\\webapi2019-SQliteAndIdentityAndAuthorize\\TodoApi.UnitTests\\TodoApi.UnitTests.csproj",
+        "projectName": "TodoApi.UnitTests",
+        "projectPath": "C:\\Users\\Flor\\Desktop\\web appi\\webapi2019-SQliteAndIdentityAndAuthorize\\TodoApi.UnitTests\\TodoApi.UnitTests.csproj",
+        "packagesPath": "C:\\Users\\Flor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Flor\\Desktop\\web appi\\webapi2019-SQliteAndIdentityAndAuthorize\\TodoApi.UnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Flor\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Flor\\Desktop\\web appi\\webapi2019-SQliteAndIdentityAndAuthorize\\TodoApi\\TodoApi.csproj": {
+                "projectPath": "C:\\Users\\Flor\\Desktop\\web appi\\webapi2019-SQliteAndIdentityAndAuthorize\\TodoApi\\TodoApi.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.TestHost": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.0.0-rc2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Flor\\Desktop\\web appi\\webapi2019-SQliteAndIdentityAndAuthorize\\TodoApi\\TodoApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Flor\\Desktop\\web appi\\webapi2019-SQliteAndIdentityAndAuthorize\\TodoApi\\TodoApi.csproj",
+        "projectName": "TodoApi",
+        "projectPath": "C:\\Users\\Flor\\Desktop\\web appi\\webapi2019-SQliteAndIdentityAndAuthorize\\TodoApi\\TodoApi.csproj",
+        "packagesPath": "C:\\Users\\Flor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Flor\\Desktop\\web appi\\webapi2019-SQliteAndIdentityAndAuthorize\\TodoApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Flor\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.0.0-rc2, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

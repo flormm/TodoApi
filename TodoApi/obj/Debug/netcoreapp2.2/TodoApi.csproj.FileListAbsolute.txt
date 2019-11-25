@@ -1,0 +1,15 @@
+C:\Users\Flor\Desktop\web appi\webapi2019-SQliteAndIdentityAndAuthorize\TodoApi\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Flor\Desktop\web appi\webapi2019-SQliteAndIdentityAndAuthorize\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.deps.json
+C:\Users\Flor\Desktop\web appi\webapi2019-SQliteAndIdentityAndAuthorize\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.runtimeconfig.json
+C:\Users\Flor\Desktop\web appi\webapi2019-SQliteAndIdentityAndAuthorize\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.runtimeconfig.dev.json
+C:\Users\Flor\Desktop\web appi\webapi2019-SQliteAndIdentityAndAuthorize\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.dll
+C:\Users\Flor\Desktop\web appi\webapi2019-SQliteAndIdentityAndAuthorize\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.pdb
+C:\Users\Flor\Desktop\web appi\webapi2019-SQliteAndIdentityAndAuthorize\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.csprojAssemblyReference.cache
+C:\Users\Flor\Desktop\web appi\webapi2019-SQliteAndIdentityAndAuthorize\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.csproj.CoreCompileInputs.cache
+C:\Users\Flor\Desktop\web appi\webapi2019-SQliteAndIdentityAndAuthorize\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorAssemblyInfo.cache
+C:\Users\Flor\Desktop\web appi\webapi2019-SQliteAndIdentityAndAuthorize\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorAssemblyInfo.cs
+C:\Users\Flor\Desktop\web appi\webapi2019-SQliteAndIdentityAndAuthorize\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.AssemblyInfoInputs.cache
+C:\Users\Flor\Desktop\web appi\webapi2019-SQliteAndIdentityAndAuthorize\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.AssemblyInfo.cs
+C:\Users\Flor\Desktop\web appi\webapi2019-SQliteAndIdentityAndAuthorize\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorTargetAssemblyInfo.cache
+C:\Users\Flor\Desktop\web appi\webapi2019-SQliteAndIdentityAndAuthorize\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.dll
+C:\Users\Flor\Desktop\web appi\webapi2019-SQliteAndIdentityAndAuthorize\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.pdb
